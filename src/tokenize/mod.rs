@@ -1,1 +1,1 @@
-pub mod word_tokenize;
+pub mod tokenize;
